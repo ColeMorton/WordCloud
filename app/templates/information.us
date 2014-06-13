@@ -1,0 +1,11 @@
+<span>Information on topic: <%= topicLabel %></span>
+<br/>
+<br/>
+<span>Total Mentions: </span><span class="badge"><%= totalMentions %></span>
+<br/>
+<br/>
+<span>Positive Mentions: </span><span class="badge green"><%= positiveMentions %></span>
+<br/>
+<span>Neutral Mentions: </span><span class="badge"><%= neutralMentions %></span>
+<br/>
+<span>Negative Mentions: </span><span class="badge red"><%= negativeMentions %></span>

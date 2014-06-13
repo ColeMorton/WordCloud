@@ -1,0 +1,28 @@
+.black {
+  background-color: black;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+#information {
+  border-left: 1px solid #EEE;
+}
+
+#wordContainer {
+ width: 700px;
+}
+
+#wordContainer label {
+  margin-right: 5px;
+}
+
+#wordContainer label:hover {
+  cursor: pointer;
+  font-style: oblique;
+}

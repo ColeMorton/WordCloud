@@ -1,0 +1,15 @@
+{
+  "name": "wordcloud",
+  "description": "An HTML/JS/CSS app",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Cole Morton",
+  "devDependencies": {
+    "lineman": "^0.32.2",
+    "lineman-bower": "0.0.3"
+  },
+  "scripts": {
+    "start": "lineman run",
+    "test": "lineman spec-ci"
+  }
+}

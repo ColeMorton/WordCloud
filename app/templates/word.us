@@ -1,0 +1,1 @@
+<label class="word" data-id="<%= id %>" style="font-size: <%= size %>; color: <%= color %>"><%= value %></label>

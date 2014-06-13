@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Wordcloud Challenge</title>
+    <link rel="stylesheet" type="text/css" href="<%= css %>" media="all" />
+  </head>
+  <body>
+    <script type="text/javascript" src="<%= js %>"></script>
+    <div class="container">
+      <div class="page-header">
+        <h1>Wordcloud Challenge</h1>
+      </div>
+      <div class="row">
+        <div class="col-lg-8" id="wordContainer"></div>
+        <div class="col-lg-4" id="information"></div>
+      <div/>
+    </div>
+  </body>
+</html>
